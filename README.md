@@ -39,9 +39,6 @@ Saya seorang pengembang pemula . Peran saya disini hanya membagikan pengalaman a
 
 <table><tr><td valign="top" width="50%">
 
-
-
-### Github Status :  
 <img src="https://github-readme-stats.vercel.app/api?username=rizkisquadpants&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
